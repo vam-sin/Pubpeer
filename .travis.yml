@@ -1,0 +1,7 @@
+language: python
+services:
+  - mysql
+python:
+  - "3.6.8"
+install:
+  - pip3 install -r requirements.txt
