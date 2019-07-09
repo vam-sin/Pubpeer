@@ -1,0 +1,8 @@
+The above-cited article has been retracted by the authors. An expression of concern in the April 2017 issue of the journal (Diabetes 2017;66:1098; https://doi.org/10.2337/db17-ec04a) alerted readers to the following anomalies:
+Lanes 5–8 of the Total Akt strip in Fig. 2G and the IB:IKKβ strip in Fig. 3B appear to be duplicates, and these images appear to have been previously published in the IB: Foxo1 strip of Fig. 5A in the following paper:
+∘ Ropelle et al. J Physiol 2009;587:2341–2351. DOI: 10.1113/jphysiol.2009.170050. PMID: 19332486
+Bands 3–8 in the Total Akt strip in Fig. 2I appear to have been later republished, with horizontal rotation, as the IB:Tub strip in Fig. 1B (LH) in the following paper:
+∘ Prada et al. Diabetes 2013;62:137–148. DOI: 10.2337/db11-1388. PMID 22966070
+Lanes 2 and 3 of the IP:EGFR strip in Fig. 5D appear to be duplicates of lanes 2 and 3 of the IB:Caveolin strip in Fig. 5E.
+The authors no longer have the original figures for the first two issues cited above and have therefore decided that the best course of action is to retract the article. The authors apologize to the scientific community and will seek to publish another article to corroborate the findings of this work.
+© 2017 by the American Diabetes Association.

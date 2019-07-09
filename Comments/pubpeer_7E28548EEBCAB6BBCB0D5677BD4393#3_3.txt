@@ -1,0 +1,6 @@
+#1
+Perhaps you could explain the nature of your concern. I.e., would the presence of a splice affect the result? If they were presented as separated lanes, would it affect the interpretation? This would provide context for what sort of "comment" you are requesting from the authors. Note that in these gels the key feature is the pattern of mobility, and not the intensity level (where it is more important to confirm that the samples were run side-by-side).
+For reference, from the PubPeer FAQs: "What makes a comment effective? Context, explanation and accuracy. Although it is good to be concise, a minimum of context and explanation can be very helpful to readers, so please consider providing this even if it does require extra work."
+I appreciate your point of view.
+I am unable to be more specific, although others I consulted via Twitter suggested: “should say in legend samples were run on different gels, so we cannot directly compare one lane to the other.”
+I apologize if this thread does not reflect an appropriate concern.

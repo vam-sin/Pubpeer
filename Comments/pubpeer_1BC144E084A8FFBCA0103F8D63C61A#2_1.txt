@@ -1,0 +1,7 @@
+Something that has bothered me for a while when researchers use nerve crush before studying axon regeneration is the absence in most studies of any way of controlling for the force applied. The concern is that researchers might by accident or by design crush the non-treated axons harder than treated axons, for instance.
+Possible non-exclusive solutions could be to:
+measure and standardise the force, as suggested here
+perform procedures blinded to treatments
+generate an internal control, possibly by live imaging axons following the crush AND then following their putative regrowth.
+Thanks for your comments.
+I first noticed that the crush results from a female graduate student and a senior male scientist in my lab were very different several years ago. My friend and colleague John Troy then set up the collaboration with Laxman's lab to quantify the force that individual applied in the optic nerve crush experiments. That's how we started this project. I think people could achieve more or less consistent force-impulse after practice (feed backs from the instrumented tweezers helped a lot too). Performing procedures blinded as you suggested also a good way to go. Another note: A nice review by Fischer et al. 2017 explained how to separate spared axons from regenerating axons, which I found it very helpful too.

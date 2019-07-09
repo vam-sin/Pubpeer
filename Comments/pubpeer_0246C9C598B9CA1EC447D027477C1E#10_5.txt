@@ -1,0 +1,30 @@
+http://jcs.biologists.org/content/128/5/1064?etoc
+
+RETRACTION
+doi: 10.1242/jcs.169243
+March 1, 2015 J Cell Sci 128, 1064.
+STAT-1 facilitates the ATM activated checkpoint pathway following DNA damage
+Paul A. Townsend, Mark S. Cragg, Sean M. Davidson, James McCormick, Sean Barry, Kevin M. Lawrence, Richard A. Knight, Michael Hubank, Phang-Lang Chen, David S. Latchman and Anastasis Stephanou
+Retraction of: J. Cell Sci. 118, 1629-1639.
+
+We were recently made aware of errors in our paper, which include misrepresentation of western blot data in Figs 4, 5 and 6 as detailed below. The misuse and re-use of western blot bands breaches the editorial policy of Journal of Cell Science, and so we must retract this article. The corresponding author, A.S., regrets the inappropriate figure manipulations of which the co-authors were completely unaware. We deeply regret that the majority of sound research presented in the rest of the paper has been invalidated in this manner, and the concern this will cause to the research community. The co-authors are repeating the affected experiments to determine whether the overall conclusions of the paper remain valid.
+
+1. Fig. 4A, Panel B MDC1 Input lane and Panel A p53BP1 Input lane are the same (flipped horizontally).
+
+2. Fig. 5A (pNBS1), Fig. 5B ATM and Fig. 5G (p53) blots are the same.
+
+3. Fig. 5A (Chk2), Fig. 5C (pChk2) and Fig. 5G (Chk2) blots are the same.
+
+4. Fig. 5B actin and Fig. 5E actin blots are the same.
+
+5. Fig. 6A ATM and pChk2 are the same blot.
+
+6. Fig. 6C and Fig. 6E actin blots are the same.
+
+© 2015. Published by The Company of Biologists Ltd
+A toppled pillar of "STAT-ology".
+
+
+https://www.youtube.com/watch?v=NK5-2fPyCjA
+http://www.nature.com/news/prominent-british-geneticist-offers-defence-in-long-running-misconduct-investigation-1.21581
+https://www.theguardian.com/science/2019/jul/01/research-misconduct-claim-upheld-against-former-head-of-ucl-lab

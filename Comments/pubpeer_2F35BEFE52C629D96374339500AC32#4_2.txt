@@ -1,0 +1,5 @@
+#1
+Can you clarify why you think 3D is supposed to be "untreated", as you claim?
+From both the Figure Legend and the Results text, it sounds as though both 3C and 3D are the same condition: both are 14 dpf, and both contain intracellular symbionts of SSB01. Thus, as far as I can tell, the 14 dpf panel in 3E seems to be the same condition as in 3D, not a different condition.
+After better reading, I now realize that both images are from larvae in presence of SSB01. I apologize. However, text and fig legend could be clearer, and image duplication was not disclosed, as far as I can see.
+#2 My mistake. few minutes after my first comment I posted another one to apologize for my mistake, but comment is strangly still in moderation. The only suboptimal aspect of Fig 3 is that image reuse is not disclosed.

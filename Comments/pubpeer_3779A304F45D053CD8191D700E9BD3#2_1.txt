@@ -1,0 +1,25 @@
+A few issues jump out in this publication. I should be clear that these comments (aside from the first) aren't necessarily specific for this study, but highlight major, major problems in the entire field of psychology.
+
+1. From the SI: "Data from sample-1 (n = 21) were collected during June–July 2014; data from sample-2 (n = 19) were collected during February–March 2015."
+
+This is simply astonishing- data collection was completed in March, which left time for the data to be analyzed, written up, revised and then submitted, all in time for acceptance in late-May? The paper itself says "2 December 2014; accepted 20 April 2015" so reviewers must have requested the replication? Is it still an independent replication if you have a paper under revision at Science?
+
+2. "Forty White participants (20 females, age: M ± SD, 21.75 ± 3.60 years old, range: 19–32 years old) were recruited from the local university community [...snip...] Data from 17 additional participants were excluded from further analyses [....]"
+
+After exclusion of 29.8% (95% CI: 18.4-43.3%) of those recruited from the analysis, the p-values all hover in the 0.01 range; this does not suggest robust results. What happens if these patients are included in the analysis ('intent to treat')? A sensitivity analysis would be most welcomed. How many exclusions occurred in the replication?
+
+3. While the differences in 'Standardized Implicit Bias Score' (Fig. S1, S2, and S3) are statistically significant, does a mean difference of 0.15 (difficult to interpret) units between the groups have any practical relevance? Any evidence to support that it does would be most welcomed.
+
+4. The authors state : "Results were quantified by using a conventional scoring procedure" which then leads to this in the SI:
+
+"To quantify IAT results, a D600 score was calculated as the dependent variable following a conventional algorithm (26). First, response times (RTs) shorter than 300 ms or longer than 3 s were deleted (<1%). Second, RTs for correct responses were averaged separately for blocks with button assignments consistent with the typical bias and for blocks with button assignments inconsistent with the typical bias. Third, we calculated the standard deviation of the RT distributions from correct trials of both consistent and inconsistent blocks combined. Fourth, any incorrect responses were replaced with the mean RT associated with that particular block plus a 600-ms penalty (26). Fifth, the means of consistent and inconsistent blocks were calculated separately including RTs of incorrect responses with the error penalties. Sixth, the RT differences between the consistent and the inconsistent blocks (RTinconsistent - consistent) from step five were divided by the inclusive standard deviation obtained from step three. The result of step six was the D600 score (26). A larger D600 score indicates a stronger implicit social bias. The measure does not indicate whether there is also an explicit social bias, or whether there are interactions between processing related to implicit and explicit measures of social bias."
+
+While this may indeed be a standard method of deriving this outcome metric, it seems rather far removed from any measured data. There are simply so many arbitrary choices (why 600 ms?), and the entire sequence of manipulations simply defies any rationale.
+
+Reference (26) has been cited > 6000 times and states: "Thirty-two (13 male and 19 female) students from introductory psychology courses at the University of Washington participated in exchange for an optional course credit. Data for 8 additional subjects were not included in the analysis because of their relatively high error rates, which were associated with responding more rapidly than appropriate for the task."
+
+Astonishing.
+At the start of this year, an independent group were unable to replicate the findings of this study:
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211416
+From the abstract:
+"Contrary to the results reported by Hu et al., we found no effect of cueing on implicit bias, either immediately following the nap or one week later. In fact, bias was non-significantly greater for cued than for uncued stimuli. Our failure to detect an effect of cueing on implicit bias could indicate either that the original report was a false positive, or that the current study is a false negative. However, several factors argue against Type II error in the current study. Critically, this replication was powered at 0.9 for detecting the originally reported cueing effect. Additionally, the 95% confidence interval for the cueing effect in the present study did not overlap with that of the originally reported effect; therefore, our observations are not easily explained as a noisy estimate of the same underlying effect. Ultimately, the outcome of this replication study reduces our confidence that cueing during sleep can reduce implicit bias."

@@ -1,0 +1,10 @@
+Student’s t-test for the comparison of more than 2 experimental groups.
+#1 Senegalia Ferruginea: what would be your suggestion? It would be nice if you can advice on better statistical tests in such cases.
+Thank you for bringing this to our attention. The journal will look into this issue.
+#1
+We appreciate the observation made by Senegalia Ferruginea. We chose the T-Student’s test as we took into account two experimental groups at a time. Indeed, in all our charts, albeit there are often more than two experimental groups, we always did the comparison between the control and another single experimental group, therefore considering only two groups each time. This way of analyzing data has been employed by other groups. Here there are only few examples: Sanclemente et al., 2018, Cancer Cell, Tan et al., 2017, Molecular Cell; Sfeir et al., 2009, Cell as well as in another very recent paper from EMBO Mol Medicine (Benyelles et al., 2019).
+Giuseppe Bosso & Maria Blasco
+To the authors,
+Although many papers show the same statistical procedure as you used, this doesn't mean it is correct. Multiple t-tests with no correction greatly increases the chances for type I error.
+I believe that the most suitable test for Fig 1, for example, would be One-way ANOVA followed by post-hoc test, correcting the P-value for multiple comparisons, such as Holm-Šídák’s.
+For reference, this paper from Gero Miesenböck (https://www.nature.com/articles/s41586-019-1034-5) does a superb job statistically. Please check the supplementary tables for statistical analyses.

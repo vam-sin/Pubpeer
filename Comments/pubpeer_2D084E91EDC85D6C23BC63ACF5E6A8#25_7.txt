@@ -1,0 +1,4 @@
+Why the p308-AKT level was not measured? For proper insulin response, both phosphorylation sites are needed (p473 and p308).
+Moreover: “Representative Western blot analysis and quantification of insulin-stimulated phosphorylation of AKT in liver and eWAT (0.75 units/kg body weight). HSC70 was used as a loading control (ctrl). Protein bands were quantified by densitometry, and total protein expression was corrected for the respective loading control (n = 3/genotype)”
+BUT: The graph shows pAKT/AKT, which means that pAKT level was normalized to AKT level, and NOT to loading control (HSC70). However, the representative Western blot displays blots of pAKT and AKT which do not match each other, suggesting that there were two independent blots: one for AKT and one for pAKT.
+How was it possible normalize the levels between two blots? (I also post the figure below) Levels between two separate blots?
